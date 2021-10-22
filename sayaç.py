@@ -1,30 +1,4 @@
 
-"""
-# Mehmet Kahya 30.09.2021 python sayaç
-# Version 0.1
-# Console'da Çalışır #
-
-import time
-
-print("Python Sayaç -mehmet kahya- -30.09.2021-")
-
-dakika = float(input("Kaç dakika: "))
-saniye = int(input("Kaç saniye: "))
-
-dakika_hesap = (dakika*60)
-##print(dakika_hesap)
-
-dakika_saniye = (dakika_hesap+saniye)
-##print(dakika_saniye)
-
-saniye_convert = (dakika_saniye/60)
-
-print("{} zamanlık sayaç başlıyor".format(saniye_convert))
-time.sleep(saniye_convert*60)
-
-print("zaman doldu!")
-"""
-
 #Mehmet Kahya#
 # Kendi Arayüzünde Çalışır! #
 #version 0.5
