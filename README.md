@@ -4,13 +4,12 @@
 
 
 
-## New Features:
+## New Feautures on V2:
 - added dark mode.
-<img width="417" alt="Ekran Resmi 2022-10-21 23 47 01" src="https://user-images.githubusercontent.com/84154488/197286087-a54217a9-bcad-42bb-a830-a481353a64ff.png">
+<img width="426" alt="Ekran Resmi 2023-04-21 21 04 49" src="https://user-images.githubusercontent.com/84154488/233704865-547af82b-89b6-4403-8028-7c6dc30a8dee.png">
 
 - added light mode
-<img width="408" alt="Ekran Resmi 2022-10-21 23 47 23" src="https://user-images.githubusercontent.com/84154488/197286106-4cdd632c-6a7a-4745-8df2-1bf6e4c0f778.png">
-
+<img width="420" alt="Ekran Resmi 2023-04-21 21 04 33" src="https://user-images.githubusercontent.com/84154488/233704871-fb37bdf3-2555-449a-9734-afc3f1b72e9e.png">
 
 
 
